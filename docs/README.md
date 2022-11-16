@@ -6,3 +6,4 @@ Contents:
 
 datadict/ - <dataset> FDM Data Dictionary files
 
+protocol -  protocol followed for <dataset> FDM build 
