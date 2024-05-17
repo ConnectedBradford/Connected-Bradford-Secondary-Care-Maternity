@@ -35,19 +35,26 @@ The source tables are largely populated by fields with the tbl_ where there is a
 ### The source data tables are: 
 
 data_dictionary
+
 cb_maternity_delivery
+
 cb_maternity_mother_child_relationship
+
 cb_maternity_pathway_postnatal
+
 cb_mother_child_relationship
+
 tbl_maternity_birth
+
 tbl_maternity_care_plan
+
 tbl_maternity_delivery
+
 tbl_maternity_pathway_antenatal
+
 tbl_maternity_pregnancy_and_booking
+
 tbl_maternity_pregnancy_and_booking_details
-
-
-
 
 For more information please go to the docs folder. 
 
