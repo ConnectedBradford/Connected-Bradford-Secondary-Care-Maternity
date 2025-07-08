@@ -20,11 +20,11 @@ As a standard all our research datasets are stored in a Flexible Data Model (FDM
 
 Contains the scripts and documentation for Maternity
 
-It contains 68,352  patients with an age range of 0	to	87. The dataset has been fully anonymised, but can link to other FDM's.
+It contains 82, 048 patients with an age range of 0	to	87. The dataset has been fully anonymised, but can link to other FDM's.
 
-Connected Bradford Maternity build date is: 2024/05/17 	
+Connected Bradford Maternity build date is: 2025/07/01 	
 
-The observation period for this data is: 2016-03-15	to	2024-04-20
+The observation period for this data is: 2016-03-15	to	2025-06-18
 
 
 # Tables
@@ -38,23 +38,27 @@ data_dictionary
 
 cb_maternity_delivery
 
-cb_maternity_mother_child_relationship
-
 cb_maternity_pathway_postnatal
-
-cb_mother_child_relationship
 
 tbl_maternity_birth
 
 tbl_maternity_care_plan
 
-tbl_maternity_delivery
+tbl_maternity_pregnancy_and_booking_details
+
+tbl_mother_child_rel
 
 tbl_maternity_pathway_antenatal
 
-tbl_maternity_pregnancy_and_booking
+tbl_maternity_care_plan
 
-tbl_maternity_pregnancy_and_booking_details
+tbl_PACT_evaluation_contact
+
+tbl_PACT_evaluation_detail
+
+
+
+
 
 For more information please go to the docs folder. 
 
